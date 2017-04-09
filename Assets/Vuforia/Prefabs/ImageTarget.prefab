@@ -31,7 +31,7 @@ Transform:
   m_GameObject: {fileID: 100000}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 250, y: 250, z: 250}
+  m_LocalScale: {x: 1920, y: 1920, z: 1920}
   m_Children:
   - {fileID: 4720866485625344}
   m_Father: {fileID: 0}
@@ -96,7 +96,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cadfb90286c81fd42a6785e4e7cd3024, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  mTrackableName: IMG_20170408_150019
+  mTrackableName: simbolos-11
   mPreserveChildSize: 0
   mInitializedInEditor: 1
   mDataSetPath: QCAR/laz.xml
@@ -109,10 +109,10 @@ MonoBehaviour:
   mSmartTerrainOccluderOffset: {x: 0, y: 0, z: 0}
   mSmartTerrainOccluderRotation: {x: 0, y: 0, z: 0, w: 0}
   mAutoSetOccluderFromTargetSize: 0
-  mAspectRatio: 0.35069445
+  mAspectRatio: 1
   mImageTargetType: 0
-  mWidth: 250
-  mHeight: 87.673615
+  mWidth: 1920
+  mHeight: 1920
 --- !u!1002 &11400001
 EditorExtensionImpl:
   serializedVersion: 6
@@ -182,7 +182,7 @@ GameObject:
   - component: {fileID: 135352418331108670}
   - component: {fileID: 23720035820546978}
   m_Layer: 0
-  m_Name: TriggerObj
+  m_Name: TriggerObj1
   m_TagString: kickoff
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

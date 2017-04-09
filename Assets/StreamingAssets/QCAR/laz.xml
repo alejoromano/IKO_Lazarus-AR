@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="IMG_20170408_150019" size="250.000000 87.673615" />
-    <ImageTarget name="IKO-LogoSponsors-fix" size="250.000000 95.667870" />
-    <ImageTarget name="Untitled-1" size="500.000000 197.530869" />
+    <ImageTarget name="simbolos-11" size="1920.000000 1920.000000" />
+    <ImageTarget name="simbolos-10" size="1920.000000 1920.000000" />
+    <ImageTarget name="simbolos-07" size="1920.000000 1920.000000" />
+    <ImageTarget name="ojo" size="2040.000000 1441.496338" />
   </Tracking>
 </QCARConfig>
